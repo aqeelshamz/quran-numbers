@@ -1,4 +1,5 @@
 void main() {
+  //All occurences
   List arr = [
     "2:185", // 2x
     "2:185", // 2x
@@ -22,6 +23,7 @@ void main() {
     "97:3"
   ];
 
+  //Plurals
   List plurals = [
     "2:197",
     "2:226",
